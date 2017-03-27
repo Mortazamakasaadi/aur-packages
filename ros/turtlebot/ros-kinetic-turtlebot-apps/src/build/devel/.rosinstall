@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mak/packages/turtlebot/ros-kinetic-turtlebot-apps/src/build/devel/setup.sh
