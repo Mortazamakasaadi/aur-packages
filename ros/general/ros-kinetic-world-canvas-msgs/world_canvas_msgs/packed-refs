@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled 
+c28213294da74c629f1e880f2518af71e5fee150 refs/heads/debian/indigo/saucy/world_canvas_msgs
+ee2977516a6978624f8daa8649f62c6f66c5b0d0 refs/heads/debian/indigo/trusty/world_canvas_msgs
+35bdc2e69cccc590ec707d49d31ff6930e708c7d refs/heads/debian/indigo/world_canvas_msgs
+1f1bf7f5eab0fdc70d8050ce8930b4e3bf3ab51c refs/heads/master
+4ff7673455597d8417bdd3f2e5ffd832e8f2f20c refs/heads/patches/debian/indigo/saucy/world_canvas_msgs
+9b7a1dc0cad6c5552718f8bcbd85d653be9f23b3 refs/heads/patches/debian/indigo/trusty/world_canvas_msgs
+ca3b1c00880549a011e195fd29ca4264365f6793 refs/heads/patches/debian/indigo/world_canvas_msgs
+cfe0197bec58534f8f374a3ce642b3360bb30e1d refs/heads/patches/release/indigo/world_canvas_msgs
+53c30dcaec99c519fee3bb6a13ffce12b9fb7445 refs/heads/patches/rpm/indigo/heisenbug/world_canvas_msgs
+f6aa9413ff0ea83325869e34700504afc1199c3f refs/heads/patches/rpm/indigo/world_canvas_msgs
+017046414005b76e244a1f499032159568f2ae69 refs/heads/release/indigo/world_canvas_msgs
+5ea07447a14bab063b9f98d5a10096a725400568 refs/heads/rpm/indigo/heisenbug/world_canvas_msgs
+b5f8f2dadd53786e4e09803b8247731dad89e806 refs/heads/rpm/indigo/world_canvas_msgs
+59b7a8403dc2a453259101847f03cda6fb8a4073 refs/heads/upstream
+c28213294da74c629f1e880f2518af71e5fee150 refs/tags/debian/ros-indigo-world-canvas-msgs_0.1.0-0_saucy
+ee2977516a6978624f8daa8649f62c6f66c5b0d0 refs/tags/debian/ros-indigo-world-canvas-msgs_0.1.0-0_trusty
+017046414005b76e244a1f499032159568f2ae69 refs/tags/release/indigo/world_canvas_msgs/0.1.0-0
+5ea07447a14bab063b9f98d5a10096a725400568 refs/tags/rpm/ros-indigo-world-canvas-msgs-0.1.0-0_heisenbug
+59b7a8403dc2a453259101847f03cda6fb8a4073 refs/tags/upstream/0.1.0

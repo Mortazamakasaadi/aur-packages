@@ -1,0 +1,8 @@
+prefix=/home/mak/packages/general/ros-kinetic-world-canvas-server/src/build/devel
+
+Name: world_canvas_server
+Description: Description of world_canvas_server
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/mak/packages/general/ros-kinetic-world-canvas-server/src/build/devel/lib 
+Requires: 

@@ -1,0 +1,4 @@
+/opt/ros/kinetic/lib/pkgconfig/world_canvas_utils.pc
+/opt/ros/kinetic/share/world_canvas_utils/cmake/world_canvas_utilsConfig.cmake
+/opt/ros/kinetic/share/world_canvas_utils/cmake/world_canvas_utilsConfig-version.cmake
+/opt/ros/kinetic/share/world_canvas_utils/package.xml
