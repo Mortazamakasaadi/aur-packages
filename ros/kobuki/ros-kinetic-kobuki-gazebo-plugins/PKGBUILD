@@ -4,7 +4,7 @@ pkgdesc="ROS - Kobuki-specific ROS plugins for Gazebo."
 url='http://ros.org/wiki/kobuki_gazebo_plugins'
 
 pkgname='ros-kinetic-kobuki-gazebo-plugins'
-pkgver='0.5.3'
+pkgver='0.5.5'
 _pkgver_patch=0
 arch=('any')
 pkgrel=1
